@@ -1,4 +1,4 @@
-# Logical Minecraft Data Packs
+# Logical Minecraft Data Packs [![version | 1.0.0](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/jajaperson/logical-minecraft-data-packs/releases)
 
 A repository containing a bunch of data packs that implement logical Minecraft
 features.
@@ -20,4 +20,3 @@ the data packs you want (you can see their descriptions above in this
 into your worlds `data` folder (for more information about installing datapacks,
 see
 [this Minecraft Wiki page](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack)).
-
