@@ -11,3 +11,13 @@ features.
 - **`useful_crafting_recipes`** — Adds and tweaks recipes to make them easier,
   such as making shulkur boxes shapeless.
 
+## Usage
+
+Navigate to the releases page, and download the `.zip` file to your desktop.
+From there, unzip the folder and navigate to the `/datapacks/` folder. Select
+the data packs you want (you can see their descriptions above in this
+`README.md` file, or in their respective `pack.mcmeta` files), and copy them
+into your worlds `data` folder (for more information about installing datapacks,
+see
+[this Minecraft Wiki page](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack)).
+
