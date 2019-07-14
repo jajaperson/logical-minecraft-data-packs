@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "description": "Adds some logical crafting recipes to minecraft, such as being able to craft certain blocks into their constituents and slabs back into full blocks."
+  }
+} 
