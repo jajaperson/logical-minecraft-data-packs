@@ -1,17 +1,9 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    [
-      {
-        "item": "minecraft:quartz_block"
-      },
-      {
-        "item": "minecraft:chiseled_quartz_block"
-      },
-      {
-        "item": "minecraft:quartz_pillar"
-      }
-    ]
+    {
+      "item": "minecraft:quartz_block"
+    }
   ],
   "result": {
     "item": "minecraft:nether_quartz",
