@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "logical_crafting_recipes:jungle_planks_from_jungle_slabs"
+    ]
+  },
+  "criteria": {
+    "has_slabs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:jungle_slab"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "logical_crafting_recipes:jungle_planks_from_jungle_slabs"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_slabs",
+      "has_the_recipe"
+    ]
+  ]
+}

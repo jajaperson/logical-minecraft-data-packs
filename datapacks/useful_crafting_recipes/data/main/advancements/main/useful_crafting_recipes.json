@@ -1,0 +1,28 @@
+{
+  "display": {
+      "icon": {
+          "item": "minecraft:stick"
+      },
+      "title": {
+          "text": "Useful Crafting Recipes",
+          "color": "white",
+          "bold": false,
+          "italic": false
+      },
+      "description": {
+          "text": "Adds a bunch of crafting recipes that make things a whole lot easier.",
+          "color": "green",
+          "bold": false,
+          "italic": true
+      },
+      "show_toast": false,
+      "announce_to_chat": false,
+      "frame": "goal"
+  },
+  "parent": "main:main/root",
+  "criteria": {
+      "tick": {
+          "trigger": "minecraft:tick"
+      }
+  }
+}
