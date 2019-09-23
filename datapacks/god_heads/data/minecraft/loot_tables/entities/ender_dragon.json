@@ -1,0 +1,87 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner: \"Notch\"}"
+                },
+                {
+                  "function": "minecraft:set_lore",
+                  "lore": [
+                    "Markus \"Notch\" Persson",
+                    "",
+                    "The Head of a God"
+                  ]
+                }
+              ],
+              "name": "minecraft:player_head"
+            },
+            {
+              "type": "minecraft:item",
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner: \"jeb_\"}"
+                },
+                {
+                  "function": "minecraft:set_lore",
+                  "lore": [
+                    "Jens \"jeb_\" Bergensten",
+                    "",
+                    "The Head of a God"
+                  ]
+                }
+              ],
+              "name": "minecraft:player_head"
+            },
+            {
+              "type": "minecraft:item",
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner: \"Dinnerbone\"}"
+                },
+                {
+                  "function": "minecraft:set_lore",
+                  "lore": [
+                    "Nathan \"Dinnerbone\" Adams",
+                    "",
+                    "The Head of a God"
+                  ]
+                }
+              ],
+              "name": "minecraft:player_head"
+            },
+            {
+              "type": "minecraft:item",
+              "functions": [
+                {
+                  "function": "minecraft:set_nbt",
+                  "tag": "{SkullOwner: \"Grumm\"}"
+                },
+                {
+                  "function": "minecraft:set_lore",
+                  "lore": [
+                    "Erik \"Grumm\" Broes",
+                    "",
+                    "The Head of a God"
+                  ]
+                }
+              ],
+              "name": "minecraft:player_head"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
