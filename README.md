@@ -1,4 +1,4 @@
-# Logical Minecraft Data Packs [![version | 1.1.1](https://img.shields.io/badge/version-1.1.1-blue.svg)](https://github.com/jajaperson/logical-minecraft-data-packs/releases)
+# Logical Minecraft Data Packs [![version | 1.1.2](https://img.shields.io/badge/version-1.1.2-blue.svg)](https://github.com/jajaperson/logical-minecraft-data-packs/releases)
 
 A repository containing a bunch of data packs that implement logical Minecraft
 features.
